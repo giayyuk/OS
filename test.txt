@@ -1,0 +1,3 @@
+- 2.1.2025 Wasserzähler fremdversorgt.
+
+netz = 0234/9600 zur Netzgesellschaft 

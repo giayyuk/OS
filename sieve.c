@@ -3,7 +3,7 @@
 #include <stdbool.h>
 
 int main(void) {
-  const int MAX = 10000;
+  const int MAX = 10000; // dont input max = 1 or max = 0
   bool arr[MAX];
   arr[0] = false; 
   arr[1] = false;
